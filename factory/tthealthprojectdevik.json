@@ -1,0 +1,9 @@
+{
+	"name": "tthealthprojectdevik",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63248abf-b56f-45c0-9233-d39e714bd394",
+		"tenantId": "7028ab8e-f47a-423f-853e-0556c8c3e4ce"
+	}
+}
